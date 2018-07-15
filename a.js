@@ -11,3 +11,4 @@ khoahoc.prototype.mota = function(){
 var a = new khoahoc("nodejs", 20000);
 
 a.mota();
+sssss
